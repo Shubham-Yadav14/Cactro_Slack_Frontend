@@ -11,7 +11,6 @@ This project is a clone of Slack's landing page built using **Next.js, TypeScrip
 
 ## 📌 Features
 
-- Responsive UI
 - Interactive Banner
 - Navigation Bar with Dropdown
 - Call-to-Action (CTA) Buttons
@@ -23,11 +22,7 @@ This project is a clone of Slack's landing page built using **Next.js, TypeScrip
 ```
 ├── public/          # Static assets
 ├── src/
-│   ├── components/  # Reusable components
-│   ├── pages/       # Next.js pages
-│   ├── styles/      # Tailwind CSS styles
-│   ├── utils/       # Utility functions
-│   ├── hooks/       # Custom React hooks
+│   ├── page/       # Next.js page
 │   ├── assets/      # Images and icons
 │
 ├── .eslintrc.json   # ESLint configuration
